@@ -1,1 +1,6 @@
+name = "matrix-wellknown"
+main = "worker.js"
+compatibility_date = "2026-05-28"
+
+[compatibility_flags]
 
